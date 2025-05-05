@@ -1,0 +1,91 @@
+.offline-stories {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.offline-stories h2 {
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.no-stories {
+  text-align: center;
+  color: #666;
+  font-style: italic;
+}
+
+.stories-list {
+  display: grid;
+  gap: 20px;
+}
+
+.story-card {
+  background: white;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.story-content {
+  flex: 1;
+}
+
+.story-description {
+  margin: 0 0 10px 0;
+  color: #333;
+}
+
+.story-location {
+  color: #666;
+  font-size: 0.9em;
+  margin: 5px 0;
+}
+
+.story-date {
+  color: #888;
+  font-size: 0.8em;
+  margin: 5px 0;
+}
+
+.story-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.story-actions button {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9em;
+  transition: background-color 0.3s;
+}
+
+.delete-story {
+  background-color: #ff4444;
+  color: white;
+}
+
+.delete-story:hover {
+  background-color: #cc0000;
+}
+
+.sync-story {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.sync-story:hover {
+  background-color: #45a049;
+}
+
+.error-message {
+  text-align: center;
+  color: #ff4444;
+  padding: 20px;
+} 

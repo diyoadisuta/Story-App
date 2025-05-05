@@ -146,6 +146,6 @@ Distribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut
 
 ## Kontak
 
-Dio Adista Laksono - [@diyoadista](https://github.com/diyoadista)
+Dio Adista Laksono - [@dioadista](https://github.com/dioadista)
 
-Link Proyek: [https://github.com/diyoadisuta/Story-App](https://github.com/diyoadisuta/Story-App) 
+Link Proyek: [https://github.com/username/story-app](https://github.com/username/story-app) 
